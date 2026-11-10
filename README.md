@@ -52,7 +52,7 @@ OpenAI 这一侧必须带 `/v1`，这是两套协议最容易搞混的地方。
 
 | 协议 | 模型 ID |
 |---|---|
-| Anthropic | `claude-opus-5-5`、`claude-sonnet-5-5`、`claude-haiku-5-5`、`claude-fable-5`、`claude-fable-5-1` |
+| Anthropic | `claude-opus-5-5`、`claude-sonnet-5-5`、`claude-haiku-5-5`、`claude-fable-5-2`、`claude-fable-5`、`claude-fable-5-1` |
 | OpenAI | `gpt-6-astra`、`gpt-6.1-sol`、`gpt-6.1-terra`、`gpt-5.6-sol` |
 | 图像 | `gpt-image-2.6-flare`、`gpt-image-2.6-sunburst`、`gpt-image-2` |
 
